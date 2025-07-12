@@ -17,5 +17,5 @@ I'm Krrish Bhalodiya , a developer who writes code like it's going out of style.
 - **Project B**: A to-do list app that helps you procrastinate more efficiently.
 
 ## Contact
-- 📧 Email: [logan181910@gmail.com]
+- 📧 Email: [ksb181910@gmail.com]
 - 🐦 Twitter: [@krrish___25]
