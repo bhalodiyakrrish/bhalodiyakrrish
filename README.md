@@ -1,6 +1,6 @@
 # 👋 Hello, World!
 
-I'm Krrish Bhalodiya , a developer who writes code like it's going out of style. When I'm not busy debugging, you can find me contemplating the meaning of life... or just binge-watching Netflix.
+I'm Krrish Bhalodiya , an engineer who writes code like it's going out of style. When I'm not busy debugging, you can find me contemplating the meaning of life... or meet me at Movies.
 
 ## About Me
 - 💻 **Code Ninja**: I write Python scripts that sometimes work.
@@ -17,5 +17,4 @@ I'm Krrish Bhalodiya , a developer who writes code like it's going out of style.
 - **Project B**: A to-do list app that helps you procrastinate more efficiently.
 
 ## Contact
-- 📧 Email: [ksb181910@gmail.com]
-- 🐦 Twitter: [@krrish___25]
+- 📧 Email: [krrishsbhalodiya@gmail.com]
