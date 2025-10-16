@@ -1,4 +1,4 @@
-# 👋 Hello, World!
+# 👋 Hey there!
 
 I'm Krrish Bhalodiya , an engineer who writes code like it's going out of style. When I'm not busy debugging, you can find me contemplating the meaning of life... or meet me at Movies.
 
