@@ -1,5 +1,58 @@
-# 💫 About Me:
-🔭 I’m currently working as a junior data engineer at firstrand services Navi Mumbai<br>👯 I’m looking to collaborate on data related projects<br>🤝 I’m looking for help with productivity and gaining knowledge<br>🌱 I’m currently learning sql, python, visualization and all major skills for data engineering<br>💬 Ask me about anything interested<br>⚡ Fun fact : lovw football, f1, cricket, tennis, movies
+# Hey there 👋, I'm Krrish
+
+# Data Engineer in Progress 🚧
+
+By day: Junior Data Engineer at FirstRand Services 🏢
+
+By night: Fighting SQL bugs, learning Python, and convincing dashboards to behave.
+
+## Currently Leveling Up
+- SQL
+- Python
+- Data Visualization
+- Data Engineering
+- Cloud Technologies
+- Problem Solving
+
+👯 Looking to collaborate on data projects where data is messy and solutions are satisfying.
+
+🤝 Looking for help with:
+- Productivity
+- Learning new technologies
+- Becoming a better engineer every day
+
+💬 Ask me about:
+- SQL
+- Python
+- Data Analytics
+- Cricket
+- Football
+- F1
+- Movies
+
+## Beyond Data
+
+⚽ Football Enthusiast  
+🏎️ F1 Fanatic  
+🏏 Cricket Lover  
+🎾 Tennis Follower  
+🎬 Movie Addict  
+
+## Fun Facts
+
+- I spend more time optimizing queries than deciding what to watch on Netflix.
+- Every dashboard starts with confidence and ends with Stack Overflow.
+- My code works. I have absolutely no idea why, but it works.
+
+### Life Right Now
+
+```python
+while True:
+    learn()
+    build()
+    break_things()
+    fix_things()
+```
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krrish___25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krrishsbhalodiya@gmail.com) 
